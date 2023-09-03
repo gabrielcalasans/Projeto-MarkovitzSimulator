@@ -6,3 +6,4 @@ plotly==5.16.1
 scipy==1.11.1
 numpy==1.25.0
 streamlit-tags==1.2.8
+matplotlib==3.7.2
